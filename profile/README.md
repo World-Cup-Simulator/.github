@@ -48,19 +48,19 @@ This platform enables users to:
 
 Live match ticker and interactive groups carousel with team standings.
 
-[![Home Page](./assets/homepage.png)
+![Home Page](./assets/homepage.png)
 
 ### 🎯 Prediction Mode
 
 Manual match entry with automatic standings calculation and interactive bracket builder.
 
-[![Predict Page](./assets/predictpage.png)
+![Predict Page](./assets/predictpage.png)
 
 ### 🎲 Simulation Mode
 
 Automatic tournament simulation with full bracket visualization and match-by-match progression.
 
-[![Simulation Page](./assets/simulationpage.png)
+![Simulation Page](./assets/simulationpage.png)
 
 ---
 
@@ -103,4 +103,4 @@ Developed by Alejandro Goró as part of a professional portfolio project.
 
 ## 🚀 Project Status
 
-🟢 Completed (portfolio project)
+🟡 In Progress - Active development with regular updates
